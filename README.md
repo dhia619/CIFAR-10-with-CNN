@@ -2,6 +2,9 @@
 
 This project is a deep learning image classifier built with TensorFlow and Keras to classify images from the CIFAR-10 dataset. The model is implemented using a convolutional neural network (CNN) and can recognize 10 classes of objects, including airplanes, cars, birds, cats, and more.
 
+## Demo
+![Demo](demo.gif)
+
 ## Project Overview
 The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. This model achieves around 77% accuracy on the test set.
 
